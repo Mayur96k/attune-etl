@@ -1,7 +1,9 @@
 venv/
-__pycache__/
 data/
-archive/
 logs/
+archive/
+__pycache__/
+
+*.json
 *.pyc
 ``
