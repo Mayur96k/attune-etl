@@ -1,0 +1,4 @@
+﻿google-cloud-secret-manager
+google-cloud-storage
+google-cloud-bigquery
+requests
