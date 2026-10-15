@@ -1,4 +1,7 @@
 ﻿google-cloud-secret-manager
 google-cloud-storage
 google-cloud-bigquery
+pandas
+pyarrow
 requests
+urllib3
